@@ -26,7 +26,7 @@ We also integrated the retrievers with an LLM, explored **tool-based retrieval**
 
 - **Python 3.10+**
 - **LangChain** (retrievers, LLM wrappers, embeddings)
-- **LangGraph** (graph-based RAG workflows, memory, agents)
+- **LangGraph** (graph-based RAG workflows, memory)
 - **FAISS** (vector store for dense retrieval)
 - **BM25 Retriever** (sparse retrieval)
 - \*\*Gemini 2.0 flash (generation)
